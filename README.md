@@ -1,0 +1,2 @@
+# pepecoin
+memecoin
